@@ -6,15 +6,9 @@ Smart Agro Portal is a simple and informative web-based project designed to prov
 
 🚀 Features
 
-🌾 Information about major crops:
-Rice
-Wheat
-Sugarcane
+🌾 Information about major crops: Rice Wheat Sugarcane
 
-🌍 Soil type details:
-Sandy Soil
-Clay Soil
-Loamy Soil
+🌍 Soil type details: Sandy Soil Clay Soil Loamy Soil
 
 • 🖼️ Interactive UI with images and cards
 
@@ -32,31 +26,9 @@ Loamy Soil
 
 📂 Project Structure:
 
-Smart-Agro-Portal/
-│── index.html
-│── Soil.html
-│── Loamysoil.html
-│── sandysoil.html
-│── claysoil.html
-│── rice.html
-│── wheat.html
-│── sugarcane.html
-│── styles.css
-│── home.css
-│── loamy.css
-│── images/
-│   ├── agri.jpg
-│   ├── card1.jpg
-│   ├── card2.jpg
-│   ├── card3.jpg
-│   ├── card4.jpg
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   ├── image3.jpg
-│   ├── logo.jpg
+Smart-Agro-Portal/ │── index.html │── Soil.html │── Loamysoil.html │── sandysoil.html │── claysoil.html │── rice.html │── wheat.html │── sugarcane.html │── styles.css │── home.css │── loamy.css │── images/ │ ├── agri.jpg │ ├── card1.jpg │ ├── card2.jpg │ ├── card3.jpg │ ├── card4.jpg │ ├── image1.jpg │ ├── image2.jpg │ ├── image3.jpg │ ├── logo.jpg
 
 🎯 Purpose
-
 
 • Educate users about soil types and crops,
 
